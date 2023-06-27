@@ -1,0 +1,77 @@
+[
+    {
+        "Name": "Breakfast at Maha's",
+        "Lat": 43.672161,
+        "Long": -79.322981
+    },
+    {
+        "Name": "Royal Ontario Museum",
+        "Lat": 43.667713,
+        "Long": -79.394777
+    },
+    {
+        "Name": "Lunch at Pai Northern Thai Kitchen",
+        "Lat": 43.647785,
+        "Long": -79.388791
+    },
+    {
+        "Name": "CN Tower",
+        "Lat": 43.642566,
+        "Long": -79.387057
+    },
+    {
+        "Name": "Dinner at Richmond Station",
+        "Lat": 43.651994,
+        "Long": -79.37991
+    },
+    {
+        "Name": "Breakfast at Lady Marmalade",
+        "Lat": 43.659606,
+        "Long": -79.34827
+    },
+    {
+        "Name": "Ripley's Aquarium of Canada",
+        "Lat": 43.642403,
+        "Long": -79.386614
+    },
+    {
+        "Name": "Lunch at Banjara Indian Cuisine",
+        "Lat": 43.662896,
+        "Long": -79.420421
+    },
+    {
+        "Name": "Art Gallery of Ontario",
+        "Lat": 43.653607,
+        "Long": -79.392385
+    },
+    {
+        "Name": "Dinner at Canoe Restaurant",
+        "Lat": 43.647049,
+        "Long": -79.381826
+    },
+    {
+        "Name": "Breakfast at Saving Grace",
+        "Lat": 43.651542,
+        "Long": -79.413922
+    },
+    {
+        "Name": "Toronto Islands",
+        "Lat": 43.632025,
+        "Long": -79.376055
+    },
+    {
+        "Name": "Lunch at Kinka Izakaya Original",
+        "Lat": 43.661747,
+        "Long": -79.37812
+    },
+    {
+        "Name": "St. Lawrence Market",
+        "Lat": 43.648662,
+        "Long": -79.371116
+    },
+    {
+        "Name": "Dinner at The Chase",
+        "Lat": 43.649563,
+        "Long": -79.378672
+    }
+]

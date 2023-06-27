@@ -1,0 +1,21 @@
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    ccc:
+      email: ccc@gmail.com
+      name: ccc
+      password: $2b$12$YZS7UWqpkgQWNDEKdEyZhOwCWydWjQLn75w2DDxbhaLHkPpAuhgZ.
+    jsmith:
+      email: jsmith@gmail.com
+      name: John Smith
+      password: $2b$12$9DB95r1m.yXvpcLUA88Jzefx1Gh3DyUzgtU2ygvoqaoiZDeQHye8u
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$WhldztqWgC0UidJYMK07CeqJis0o4Liyhyx4N6z3Ep2gsUsvfvnRi
+preauthorized:
+  emails:
+  - melsby@gmail.com
